@@ -15,7 +15,13 @@ WPM
 ---
 
 admin - mailing lists, contact details and such
-protocols - documents on the protocols for collaboration
+
+kobe - documents related to the Kobe Workshop on MSE, co-ordinated by ICCAT
+
+presentations - archive of presentations carried out related to WPM
+
+protocols - documents on the protocols (checklists) for development & collaboration
+
 workplans - draft WPM workplans
 
 
