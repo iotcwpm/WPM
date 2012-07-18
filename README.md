@@ -14,13 +14,13 @@ please write to the repository maintainer.
 WPM
 ---
 
-admin - mailing lists, contact details and such
-
 kobe - documents related to the Kobe Workshop on MSE, co-ordinated by ICCAT
 
 presentations - archive of presentations carried out related to WPM
 
 protocols - documents on the protocols (checklists) for development & collaboration
+
+templates - templates for various files types
 
 workplans - draft WPM workplans
 
@@ -36,4 +36,6 @@ https://github.com/iotcwpm/WPM/
 
 https://groups.google.com/group/iotcwpm
 
+- Mendeley: papers, references
 
+http://www.mendeley.com/groups/1839511/_/
