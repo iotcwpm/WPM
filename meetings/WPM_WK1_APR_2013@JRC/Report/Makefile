@@ -1,2 +1,2 @@
 all:
-	pandoc -s -S --biblio ./library.bib report.md -o report.pdf 
+	pandoc -s -S --biblio ./library.bib --toc REPORT.md -o REPORT.pdf 
