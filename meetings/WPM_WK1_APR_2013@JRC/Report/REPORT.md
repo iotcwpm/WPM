@@ -2,16 +2,18 @@
 % Working Party on Methods, Indian Ocean Tuna Commission
 % ISPRA, ITALY. 16-19 APRIL 2013
 
-# INTRODUCTION
+# EXECUTIVE SUMMARY
 
 This workshop took place in the premises of the European Community Joint Research Centre (EC-JRC) in Ispra, Italy, between the 16 and 19 of April 2013. A number of scientists working on the development of Management Strategy Evaluation (MSE) for IOTC tuna stocks worked together in order to progress along the lines agreed by the 4th session of the Working Party on Methods, and endorsed by the 15th Session of the Scientific Committee [@IOTC-2012-SC15].
 
+Progress was made at developing a base Operating Model for Indian Ocean Albacore
+
 # OBJECTIVES
 
-The general objective of this workshop was to progress on the development of Management Strategy Evaluation (MSE) simulations for IOTC tuna stocks. Moore specifically, the participants agreed to the following set of objectives:
+The general objective of this workshop was to progress on the development of Management Strategy Evaluation (MSE) simulations for IOTC tuna stocks. More specifically, the participants agreed to the following set of objectives:
 
 1. To review factors to be included in the initial set of Operating Models (OM) for Indian Ocean albacore.
-2. To assemble a first round of Operating Models for Indian Ocean Albacore.
+2. To assemble a first round of Operating Models for Indian Ocean albacore.
 3. To select a number of scenarios to be considered as sensititity runs for those Operating Models.
 4. To discuss an initial set of Management Plans, including possible Harvest Control Rules and interim management objectives.
 5. To discuss the design of Operating Models for Indian Ocean tropical tuna stocks (skipjack, yellowfin and bigeye tuna).
@@ -20,9 +22,11 @@ The general objective of this workshop was to progress on the development of Man
 8. Plan future work and subsequent workshops.
 9. Provide the chair of the Scientific Commitee with an update on MSE development to be included in the scientific presentation to the IOTC plenary.
 
-# ALBACORE OPERATING MODELS
+# Albacore OPERATING MODELS
 
-## Review of Indian Ocean Albacore stock assessment 
+The group agreed to the use of one of the stock assessment models presented at the 2012 session of the Working Party on Temperate Tuna [@IOTC-2012-WPTmT] as a basis for the first set of operating models.
+
+## Review of Indian Ocean albacore stock assessment 
 
 ## Current MSE work by ICCAT on Atlantic albacore
 
@@ -30,7 +34,7 @@ The general objective of this workshop was to progress on the development of Man
 
 ## Final grid of albacore SS3 models
 
-# ALBACORE MANAGEMENT PROCEDURES
+# Albacore MANAGEMENT PROCEDURES
 
 - Objectives
 - SA / Model free
@@ -81,8 +85,6 @@ The general objective of this workshop was to progress on the development of Man
 
 # APPENDIX 2 - Grid sampling
 
-# BIBLIOGRAPHY
-
 # OUTCOMES
 
 - Draft ALB OM + Robustness tests
@@ -93,3 +95,5 @@ The general objective of this workshop was to progress on the development of Man
 - Draft ALB BRP analysis
 - Workplan
 - Report
+
+# BIBLIOGRAPHY

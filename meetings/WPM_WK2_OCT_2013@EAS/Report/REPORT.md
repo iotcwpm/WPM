@@ -2,12 +2,9 @@
 % Working Party on Methods - IOTC
 % 23 October 2013
 
-	DRAFT VERSION *8.NOV.2013*
+	DRAFT VERSION *11.NOV.2013*
 	Please note this is a draft version that has not yet 
 	been reviewed and approved by the WPM MSE Team
-
-	TODO
-	- ADD links to presentation files once submitted by authors
 
 # Introduction
 
@@ -39,13 +36,19 @@ Table: Albacore OM grid for SS3 runs
 
 The result of these runs presented much higher variability in population parameters that could be expected. For example, a number of runs returned estimates of SSB up to 10 times higher that the median value. This appears to be an indication of the model not being able to deal with the lack of information oin the data, or with a conflict in signals originating from the various data sources.
 
-![ALB](figures/alb.png)
+![Population time series obtained from the ALB OM Grid with all results included.](figures/alb.png)
 
 An initial solution has been to trim down the grid results to those within certain limits, in this case those runs where the final estimate of SSB (in 2010) is less or equal to 2.5 times the median of all runs.
 
-![ALB](figures/albTRIM.png)
+![Population time series obtained from the ALB OM Grid with only those runs for whivh final SSB <= 2.5 Median(SSB) included.](figures/albTRIM.png)
 
-- ALB MP: Appendix B
+This generated some time series with more reasonable uncertainty levels, but introduces a dgree f subjectivity in the choice of an *acceptable* level of departure from the median that is not easy to justify. It also impact negatively on the sampling procedure across the gird, as it is based on both prior expectations and likelihood values from the whole grid.
+
+The agreement was that this discuss merits further work, and the option of assembling an OM for albacore based on tailor-made code that might better make best use of the available information was mentioned. The MSE team will discuss the issue further and proceed once an agreement has been reached.
+
+- The MSE team will further ANALYSE the OM results and decide on a course of action.
+
+An initial set of Management Procecdures for albacore was also discussed, and an outline of two possible candidates was drafted, and an be found in Appendx B.
 
 - Presentation: [ALB_Progress-IM.pdf](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK2_OCT_2013@EAS/Presentations/ALB_Progress-IM.pdf?raw=true)
 
@@ -62,6 +65,8 @@ The possible sources of these patterns in the data are not clear at this point, 
 The group discussed briefly the ways in which the conditioning of the operating models for albacore could attenpt to incorporate the uncertainty in this source of data, specially given that the progression of length-at-age is an important part of the likelihood of the population model currently applied. It was noted that one of the scneqrios already covered by the albacore OMs is that of giving less weight in the total likelihood to this data source.
 
 - The group AGREED to explore further the possible uncertainties in the length-at-age data from Taiwan China, and how best to introduce it in the OM.
+
+- Presentation: [ALB_Catch-MH.pdf](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK2_OCT_2013@EAS/Presentations/ALB_Catch-MH.pdf?raw=true)
 
 ## Progress and ideas for the development on Albacore operating Models in ICCAT (L. Kell, ICCAT)
 
@@ -83,13 +88,15 @@ A number of suggestions were made to the developer, many of them related to the 
 
 All code developed for this model is in the process of being uploaded to the IOTC WPM repository.
 
-- Chair will work with N. Bentley to inbclude skipjack OM code in IOPTCWPM repository at (http://github.com/iotcwpm/).
+- Chair will work with N. Bentley to include skipjack OM code in IOPTCWPM repository at (http://github.com/iotcwpm/).
 
 - Presentation: [SKJ_OM-NB.pdf](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK2_OCT_2013@EAS/Presentations/SKJ_OM-NB.pdf?raw=true)
 
 ## FLBEIA, a package for bio-economic evaluation of fisheries management plans (D. Garcia, AZTI Tecnalia)
 
 A presentation was carried out on the ongoing development and application of an R/FLR package for simplified implementation of bio-economic simulations able to assess the economic impact of alternative regulations and management regimes. Although the work has been carried out for inmedate application in European fisheries, the framework is generic enough to accomodate other fishery systems. The availability of detailed economic data, so as to be able to assess the economic performance of different fleets, is obviously a limiting factor in the use of this type of analysis, but the group recognized the interest of seeing this kind of evaluation being carried out. Future situations in which MSE work in IOTC might need to move towards limited calculation of associated economic costs and benefits of certain management options was discussed. For example, the value of intensive tagging programmes, able to provide fishery-independent estimates of stock status, 
+
+- Presentation: [FLBEIA-DG.pdf](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK2_OCT_2013@EAS/Presentations/FLBEIA-DG.pdf?raw=true)
 
 ## Draft outline of MSE information session at IOTC SC 2014 (I. Mosqueira, EC JRC)
 
@@ -120,6 +127,8 @@ The group expressed its interest in participating in this and future activities.
 # Activities in 2013
 
 ## Workplan 2014
+
+- Chair and vice-chair to work on a draft workplan for 2014 to be presented at SC meeting, December 2013.
 
 \newpage
 \appendix
@@ -173,3 +182,57 @@ The group expressed its interest in participating in this and future activities.
 - Stock status
 - Harvest control rule
 - Implementation
+
+# DRAFT Experimental Management Procedures for Indian Ocean albacore
+
+##  BACKGROUND
+
+### IOTC Resolution 13/10
+- GREEN: maintain the stocks with a *high probability* within this quadrant.
+- ORANGE: aim at ending overfishing with a *high probability* in *as short a period as possible*.
+- YELLOW: aim at rebuilding these stocks in *as short a period as possible*.
+- RED: end overfishing with a *high probability* and rebuild the biomass in *as short a period as possible*.
+
+## OBJECTIVES
+
+Possible interpretation of risks associated with target and limit reference points
+
+- P(SSB >= SSB@MSY) > 60%
+- P(F <= F@MSY) > 60%
+
+- P(SSB > SSBLim) > 95%
+- P(F < FLim) > 95%
+
+## TARGETS
+
+- SSB = SSB@MSY
+- F = F@MSY
+
+## LIMITS
+
+- SSBLim: 0.4 * SSB@MSY
+- FLim: 1.4 * F@MSY
+
+## PERFORMANCE MEASURES
+
+- P(SSB_y >= SSB@MSY)
+- P(SSB_end >= SSB@MSY)
+- P(F_y >= F@MSY)
+- P(F_end >= F@MSY)
+- Median C, CV C
+
+## HCRs
+
+### BD Model-based HCR
+
+- Biomass dynamics SA
+- IF SSB_y < 0.90 * SSB@MSY
+	- F_y+1 = F(SSB y+5 > SSB@MSY)
+- F_y+1 -> C_y+1
+- E(C_y+1)
+
+### CPUE-based indicator HCR
+
+- Linear trend of last 5 years
+- Slope < 0 w/ alpha=0.2, then
+	- C_y+1 = C_y * 0.80
