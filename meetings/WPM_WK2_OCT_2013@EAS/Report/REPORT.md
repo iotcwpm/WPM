@@ -82,6 +82,8 @@ The recently started work on the development of an OM for Indian Ocean skipjack 
 
 The presentation covered the proposed structure of the model, including the spatial and temporal disaggregation, the number of fleets, data sources and priors used for some parameters. The model is being developed in C++ and will be conditioned on the usual sources of data using McMC or SIR algorithms. Tagging data will be introduced via the existing estimates of Z-at-age for the PS fleet.
 
+The model will be built around three areas, covering East and West Indian Ocean, and the Maldives archipelago. This should capture the most important elements in the spatial dynamics of stock and fleets, while still limiting the need for detailed movement information, which is still very scarce.
+
 The group welcomed this new development and was specially interested in the approach taken given the lack of a solid population model used for stock assessment. The conditioning of this model to the existing data was considered to be an essential element, given the known limitations in some key data sources.
 
 A number of suggestions were made to the developer, many of them related to the possible difficulties at extracting enough information on the spatial dynamics from the available data, and the possibility of comparing a range of movement scenarios to see the importance of this factor in the overall results.
