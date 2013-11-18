@@ -48,7 +48,7 @@ The agreement was that this discuss merits further work, and the option of assem
 
 - The MSE team will further ANALYSE the OM results and decide on a course of action.
 
-An initial set of Management Procecdures for albacore was also discussed, and an outline of two possible candidates was drafted, and an be found in Appendx B.
+An initial set of Management Procecdures for albacore was also discussed, and an outline of two possible candidates was drafted, and can be found in Appendix B.
 
 - Presentation: [ALB_Progress-IM.pdf](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK2_OCT_2013@EAS/Presentations/ALB_Progress-IM.pdf?raw=true)
 
