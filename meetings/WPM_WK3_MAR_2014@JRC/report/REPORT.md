@@ -53,11 +53,15 @@ Risks of falling below 40% of S_MSY are below 7% and 10% for Albacore and Skipja
 
 The group discussed some merits of the approach, and suggested improvements by incorporating uncertainty in the optimal rate of fishing and using a more traditional Harvest control rule. The group cautioned on the conclusions as they are inherently a function of what was assumed on the harvest control rule. After a second iteration, this work could be finalized as an analysis addressing one of the tasks identified in Resolution 13/10 that deal with evaluation of the reference points and rebuilding to a green area in the Kobe plots with a high probability in as quick a time as possible. Discussions were also alluded to having a more direct and applicable tie in to the resolution and this analysis in teh escond iteration.
 
-- DOCUMENT: presentations/Sharma_2014_MSE_RPs.pdf
+- DOCUMENT: [SHARMA_risk_brps_JRC-MAR2014](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/SHARMA_risk_brps_JRC-MAR2014.pdf?raw=true)
 
 # FUTURE work on Skipjack and Albacore MPs
-- Current IDEAS (TK, NB)
-- PLANNING of future work (Timelines, responsabilities)
+
+Ideas for an initial set of Management Procedures for albacore and skipjack were discussed. test runs of two management procedures have been already carried out for albacore, one based on trends in the CPUE and the other on a biomass dynamics stock assessment model (see [presentation to SC 2013](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/Presentation_IOTC-2013-SC16-11%5BE%5D.pdf?raw=true)).
+
+Some possible alternatives for skipjack are worth exploring for albacore too, and this will be pursued further.
+
+- DOCUMENT: [SKJ_MP_ideas_and_discussion_WPM_2014-03-25](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/SKJ_MP_ideas_and_discussion_WPM_2014-03-25.pdf?raw=true)
 
 # TRAINING and capacity building on MSE at IOTC
 
