@@ -1,6 +1,6 @@
-# 3rd Management Procedure Workshop
-## Working Party on Methods, Indian Ocean Tuna Commission
-## Ispra, Italy, 25-28 March 2014
+% 3rd Management Procedure Workshop
+% Working Party on Methods, Indian Ocean Tuna Commission
+% Ispra, Italy, 25-28 March 2014
 
 The 3rd Workshop on Management Procedure Evaluation of the Working Party on Methods took place at the Joint Research Centre of the European Commission in Ispra, Italy, between 25 and 28 March 2014.
 
@@ -67,18 +67,17 @@ Some possible alternatives for skipjack are worth exploring for albacore too, an
 
 ## Review of GEF-ABNJ/WWF Management Procedure Capacity Building Training Curriculum 
 
-GEF-ABNJ/WWF are planning a series of workshops to increase understanding and capacity of senior policy and management staff with respect to the use of harvest strategies, reference points and management strategy evaluation for the management of tuna stocks.  Consultants have proposed a training curriculum for the inaugural workshop to be held in Sri Lanka in April 2014 for coastal developing states.  Feedback on the scope and content of the curriculum was provided to the developers, emphasizing the need for standardized terminology and a modular
+GEF-ABNJ/WWF are planning a series of workshops to increase understanding and capacity of senior policy and management staff with respect to the use of harvest strategies, reference points and management strategy evaluation for the management of tuna stocks.  Consultants have proposed a training curriculum for the inaugural workshop to be held in Sri Lanka in April 2014 for coastal developing states.  Feedback on the scope and content of the curriculum was provided to the developers, emphasizing the need for standardized terminology and a modular design that should facilitate future use of the material.
 
-- CALENDAR of activities (RS, IM)
-- ABNJ WK MAY 2014 (DK)
-- COM 2014 session (JS, RS, IM)
-- MATERIAL to be developed
+## Planning of Management Procedures session at next Commission meeting, 31 May 2014.
+
+Following on the reaquest from the last Scientific Committee meeting, the IOTC Secretariat and the SC chair have arranged with the chair of IOTC for a one day session on management objectives, procedures and the work of WPM to be carried out. Preparations for the precise format and content are still ongoing, and IOTC will soon announce it and circulate an agenda for the session.
 
 ## Terminology
 
-When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partlky the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), which is appended to this report as Annex 1.
+When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partlky the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), and the group agreed to use as basis for terminology decisions.
 
-The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed thast Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out.
+The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Althoug Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the the precise terms of the discussion.
 
 # STATUS of ABNJ project
 
@@ -108,6 +107,8 @@ The agreed strategy is to communicate directly with the chairs and vice-chairs o
 
 # WORKPLAN
 
+This is a brief overview of the workplan that various parties agreed to, to encourage collaboration and review by other scientists, but will be subject to change according to progress and availability of time.
+
 ## SKJ (NB)
 
 - REFINE model dynamics and data as discussed (APR-JUN)
@@ -134,6 +135,11 @@ The agreed strategy is to communicate directly with the chairs and vice-chairs o
  - DEC 2014 - WPM session
  - DEC 2014 - WPM report at SC
  - DEC 2014 - MSE training at SC
+
+# REFERENCES
+
+ISSF. 2013. ISSF	Stock	Assessment	Workshop: Harvest	Control	Rules	and	Reference	Points	for	Tuna RFMOs. San	Diego,	California,	USA. March	6-8	2013.
+Technical Report 2013-03. http://iss-foundation.org/resources/downloads/?did=451.
 
 # PARTICIPANTS
 
