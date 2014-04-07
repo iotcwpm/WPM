@@ -16,18 +16,18 @@ An update on the current status of work on the Operating Model (OM) for Indian O
 
 The main difficulty found in the procedure is the sensitivity of the model and some of its outputs to certain variables and combinations of values. A number of runs provide estimates of population history and status, e.g. SSB in 1950 and 2010, that are much larger than what could be reasonably expected. This is not then corresponded by a significant change in the quality of the fit (in total and partial likelihoods).
 
-Work was carried out on identifying the parameter or parameter combinations reponsible for this behaviour, and the main effect appeared to come from the very low value assigned in some runs to the Effective Sample Size (ess) of the length samples in the catch data, which controls the wright of this component in the overall likelihood. This choice gives the CPUE series a much stronger influence in the final results.
+Work was carried out on identifying the parameter or parameter combinations responsible for this behaviour, and the main effect appeared to come from the very low value assigned in some runs to the Effective Sample Size (ess) of the length samples in the catch data, which controls the wright of this component in the overall likelihood. This choice gives the CPUE series a much stronger influence in the final results.
 
-A more detailed exploration of these issues is now to be carried out, with a view of explicitely justifying that some runs in the model options grid are going to be set aside from the main OM, based on a quantile of the distribution of biomass estimates.
+A more detailed exploration of these issues is now to be carried out, with a view of explicitly justifying that some runs in the model options grid are going to be set aside from the main OM, based on a quantile of the distribution of biomass estimates.
 
 
 # REVIEW of status of work on Skipjack OMs
 
 Progress on the development of an operating model for skipjack was presented. There have been several refinements to the model since it was presented to the WPM meeting in San Sebastian, October 2013. These changes include using a weight to mortality allometric relationship based on Lorenzen (2000) and using piecewise splines for the selectivity of each fishing method. CPUE, size frequencies and Z-estimates have been integrated into the model for the purpose of conditioning. 
 
-Initial fits to data suggest further model refinements such as estimating cathability parameters to reflect the quarterly differences in the Maldive pole and line CPUE. During the workshop, further work was done on the appropriate definition of fishing method categories. Originally, line type gears were aggregated into a separate "LI" method. However, after further examination of nominal catch and size frequency data it was decided that it would be more appropriate to combine "LI" into the "OT" (other) method. This results in four methods in the operating model: "PS" (purse seine), "PL" (pole and line), "GN" (gill net) and "OT" (other).
+Initial fits to data suggest further model refinements such as estimating catchability parameters to reflect the quarterly differences in the Maldive pole and line CPUE. During the workshop, further work was done on the appropriate definition of fishing method categories. Originally, line type gears were aggregated into a separate "LI" method. However, after further examination of nominal catch and size frequency data it was decided that it would be more appropriate to combine "LI" into the "OT" (other) method. This results in four methods in the operating model: "PS" (purse seine), "PL" (pole and line), "GN" (gill net) and "OT" (other).
 
-The next step for the project is to complete model conditioning. This, as well as the evaluation of a simple management procedure (MP) based on reference points is expected to be completed by July. Following that, evaluation of more relatistic MPs, based on indicators such as CPUE or tagging-based Z-estimates, will be done. This work will be presented to the WPTT in October for their input.
+The next step for the project is to complete model conditioning. This, as well as the evaluation of a simple management procedure (MP) based on reference points is expected to be completed by July. Following that, evaluation of more realistic MPs, based on indicators such as CPUE or tagging-based Z-estimates, will be done. This work will be presented to the WPTT in October for their input.
 
 
 # FUTURE work on Yellowfin and Bigeye OMs
@@ -71,13 +71,13 @@ GEF-ABNJ/WWF are planning a series of workshops to increase understanding and ca
 
 ## Planning of Management Procedures session at next Commission meeting, 31 May 2014.
 
-Following on the reaquest from the last Scientific Committee meeting, the IOTC Secretariat and the SC chair have arranged with the chair of IOTC for a one day session on management objectives, procedures and the work of WPM to be carried out. Preparations for the precise format and content are still ongoing, and IOTC will soon announce it and circulate an agenda for the session.
+Following on the request from the last Scientific Committee meeting, the IOTC Secretariat and the SC chair have arranged with the chair of IOTC for a one day session on management objectives, procedures and the work of WPM to be carried out. Preparations for the precise format and content are still ongoing, and IOTC will soon announce it and circulate an agenda for the session.
 
 ## Terminology
 
-When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partlky the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), and the group agreed to use as basis for terminology decisions.
+When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partly the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), and the group agreed to use as basis for terminology decisions.
 
-The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Althoug Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the the precise terms of the discussion.
+The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Although Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the precise terms of the discussion.
 
 # STATUS of ABNJ project
 
@@ -87,7 +87,7 @@ A number of the ABNJ project elements relate to the acceleration of evaluation o
 
 Another activity noted, which relates to building understanding of  the process and utility of management procedure evaluations amongst IOTC developing economy CPCs is a workshop organized under the ABNJ project, which is being organized by WWF, to be held in Sri Lanka in late April, 2014.  The curriculum for this workshop is under development and a number of the elements related to management procedure evaluations were reviewed and commented upon by the WP participants. 
 
-It was noted that the issues being addressed in these two workshops have a large degree of overlap and, as such, it would be best to try and keep some consistency in messaging across the 2 workshops on similar themes.  To the degree possible, the curriculum materials used for the April workshop should be available for use during the dialoge workshop with Commissioners in late May.
+It was noted that the issues being addressed in these two workshops have a large degree of overlap and, as such, it would be best to try and keep some consistency in messaging across the 2 workshops on similar themes.  To the degree possible, the curriculum materials used for the April workshop should be available for use during the dialogue workshop with Commissioners in late May.
 
 # OTHER BUSINESS
 
@@ -101,7 +101,7 @@ Following a request of some participants, a brief demonstration of the FLR libra
 
 ## COMMUNICATION w/WPs
 
-A short discussiom took place on the best strategies for ensuring sufficient and smo0oth communication wth the species working groups involved in the work currently being carried out by WPM, chiefly WPTT and WPTmT. This was requested by the last meeting of IOTC SC (IOTC-2013-SC16-R[E], paragraph 118).
+A short discussion took place on the best strategies for ensuring sufficient and smooth communication woith the species working groups involved in the work currently being carried out by WPM, chiefly WPTT and WPTmT. This was requested by the last meeting of IOTC SC (IOTC-2013-SC16-R[E], paragraph 118).
 
 The agreed strategy is to communicate directly with the chairs and vice-chairs of both working groups when any relevant output is generated. For example, this report will be circulated to them all and open to feedback, specially if extra information is required. The members of the group involved in each part of the work will submit papers to the upcoming meetings of both WPTT and WPTmT, and presentations will be made to obtain feedback and suggestions from WP members to better refine the models and simulations.
 
