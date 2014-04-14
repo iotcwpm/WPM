@@ -6,7 +6,7 @@ The 3rd Workshop on Management Procedure Evaluation of the Small Working Group o
 
 The aims of this workshop were to
 
-- Review progress on development of Management Strategy Evaluation simulations for IOTC stocks, namely Indian Ocean albacore and skipjack.
+- Review progress on development of Management Procedure Evaluation simulations for IOTC stocks, namely Indian Ocean albacore and skipjack.
 - Develop a set of material for training on MSE and Management Procedures for IOTC.
 - Plan future work, including links to that carried out under the GEF ABNJ project.
 
@@ -71,7 +71,7 @@ Some possible alternatives for skipjack are worth exploring for albacore too, an
 
 ## Review of GEF-ABNJ/WWF Management Procedure Capacity Building Training Curriculum 
 
-GEF-ABNJ/WWF are planning a series of workshops to increase understanding and capacity of senior policy and management staff with respect to the use of harvest strategies, reference points and management strategy evaluation for the management of tuna stocks.  Consultants have proposed a training curriculum for the inaugural workshop to be held in Sri Lanka in April 2014 for coastal developing states.  Feedback on the scope and content of the curriculum was provided to the developers, emphasizing the need for standardized terminology and a modular design that should facilitate future use of the material.
+GEF-ABNJ/WWF are planning a series of workshops to increase understanding and capacity of senior policy and management staff with respect to the use of harvest strategies, reference points and management procedure evaluation for the management of tuna stocks.  Consultants have proposed a training curriculum for the inaugural workshop to be held in Sri Lanka in April 2014 for coastal developing states.  Feedback on the scope and content of the curriculum was provided to the developers, emphasizing the need for standardized terminology and a modular design that should facilitate future use of the material.
 
 ## Planning of Management Procedures session at next Commission meeting, 31 May 2014.
 
@@ -81,7 +81,7 @@ Following on the request from the last Scientific Committee meeting, the IOTC Se
 
 When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partly the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), and the group agreed to use as basis for terminology decisions.
 
-The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Although Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the precise terms of the discussion. Confusion has been reported, for example, due to the the verbal similarity between MSE and MSC.
+The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Although Management Procedure Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the precise terms of the discussion. Confusion has been reported, for example, due to the the verbal similarity between MSE and MSC.
 
 # STATUS of ABNJ project
 
