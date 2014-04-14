@@ -1,8 +1,8 @@
-% 3rd Management Procedure Workshop
-% Working Party on Methods, Indian Ocean Tuna Commission
+% 3rd Workshop on Management Procedure Evaluation
+% Working Party on Methods Small Working Group on Management Strategy Evaluation
 % Ispra, Italy, 25-28 March 2014
 
-The 3rd Workshop on Management Procedure Evaluation of the Working Party on Methods took place at the Joint Research Centre of the European Commission in Ispra, Italy, between 25 and 28 March 2014.
+The 3rd Workshop on Management Procedure Evaluation of the Small Working Group on Management Strategy Evaluation of the Working Party on Methods took place at the Joint Research Centre of the European Commission in Ispra, Italy, between 25 and 28 March 2014.
 
 The aims of this workshop were to
 
@@ -18,6 +18,8 @@ The main difficulty found in the procedure is the sensitivity of the model and s
 
 Work was carried out on identifying the parameter or parameter combinations responsible for this behaviour, and the main effect appeared to come from the very low value assigned in some runs to the Effective Sample Size (ess) of the length samples in the catch data, which controls the wright of this component in the overall likelihood. This choice gives the CPUE series a much stronger influence in the final results.
 
+The model can explain the main data signal of declining CPUE either as a result of fishery depletion or a declining reruitment trend (or some combination of the two).  If declining CPUE is explained by a recruitment trend, the biomass tends to be estimated at a very high level, such that the fishery has a negligible impact on the population.  To the extent that the stationary selectivity assumption is valid, there seems to be a signal in the size composition data that favours results in which the population is smaller and the fishery is having a significant impact on the population.  This latter interpretation is predominant among models, appears to be more frequent when the size composition data is given more weight, and may be more consistent with albacore productivity as estimated in other oceans (no comparison was made to date).
+
 A more detailed exploration of these issues is now to be carried out, with a view of explicitly justifying that some runs in the model options grid are going to be set aside from the main OM, based on a quantile of the distribution of biomass estimates.
 
 
@@ -28,6 +30,8 @@ Progress on the development of an operating model for skipjack was presented. Th
 Initial fits to data suggest further model refinements such as estimating catchability parameters to reflect the quarterly differences in the Maldive pole and line CPUE. During the workshop, further work was done on the appropriate definition of fishing method categories. Originally, line type gears were aggregated into a separate "LI" method. However, after further examination of nominal catch and size frequency data it was decided that it would be more appropriate to combine "LI" into the "OT" (other) method. This results in four methods in the operating model: "PS" (purse seine), "PL" (pole and line), "GN" (gill net) and "OT" (other).
 
 The next step for the project is to complete model conditioning. This, as well as the evaluation of a simple management procedure (MP) based on reference points is expected to be completed by July. Following that, evaluation of more realistic MPs, based on indicators such as CPUE or tagging-based Z-estimates, will be done. This work will be presented to the WPTT in October for their input.
+
+- DOCUMENT: [SKJ_MP_ideas_and_discussion_WPM_2014-03-25](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/SKJ_MSE_progress_WPM_2014-03-25.pdf?raw=true)
 
 
 # FUTURE work on Yellowfin and Bigeye OMs
@@ -40,7 +44,7 @@ The most challenging issues identified for further investigation included:
 
 2. If effort-based management tools are employed to regulate the fishery (including time-area closures), it may be appropriate to model multiple species simultaneously, with supporting modelling efforts required to understand high resolution spatial processes.
 
-3. The bigeye and yellowfin assessments rely on standardized CPUE as relative abundance indices.  We never know how effective standardization is, and in the Indian Ocean, we know that: i) longline species targeting has changed over time, ii) longline effort distributions have changed dramatically, particularly in response to Somalian piracy, and iii) different longline fleets exhibit very different trends despite similar standardization analyses.  Most Harvest Control Rules are critically dependent on relative abundance information, and it is difficult to realistically quantify CPUE uncertainty, and worth questioning whether other fisheries independent data options should be evaluated as a priority (e.g. transponding acoustic buoys or genetic tagging techniques (ISSF 2012), such as are used in the CCSBT may represent a genuinely viable alternative (Bravington et al. 2012).
+3. The bigeye and yellowfin assessments rely on standardized CPUE as relative abundance indices.  We never know how effective standardization is, and in the Indian Ocean, we know that: i) longline species targeting has changed over time, ii) longline effort distributions have changed dramatically, particularly in response to Somalian piracy, and iii) different longline fleets exhibit very different trends despite similar standardization analyses.  Most Harvest Control Rules are critically dependent on relative abundance information, and it is difficult to realistically quantify CPUE uncertainty, and worth questioning whether other fisheries independent data options should be evaluated as a priority. For example transponding acoustic buoys (ISSF, 2012) or genetic tagging techniques, such as are used in the CCSBT may represent a genuinely viable alternative (Bravington et al., 2012).
 
 The group recommended that the highest priority should be to develop a simple functioning MPE framework, with foresight to allow future elaboration, as new insight from stock structure studies or demonstrated viability of new fisheries independent monitoring systems becomes available.  It was expected that progress would be reviewed at the WPTT.
 
@@ -51,13 +55,13 @@ A simple simulation based approach was presented to the Workshop on WPM evaluati
 
 Risks of falling below 40% of S_MSY are below 7% and 10% for Albacore and Skipjack respectively if fished at optimal levels. For bigeye and yellowfin these risks are less than 1% respectively to fall below 50% of S_MSY and 40% S_MSY respectively. Thus, based on these limit reference points, managers should be willing to take a management action every 15 years for albacore, every 10 years for skipjack, and every 100 years for bigeye and yellowfin respectively provided fishing is kept at optimal levels. Risks of failing to detect an issue with overfishing is less than 2% for albacore at levels exceeding optimal fishing levels, about 40% for skipjack, and about 60% for bigeye andyellowfin at these reference points. If managers wish to minimize the risks of failing to detect overfishing for skipjack, yellowfin and bigeye, these stocks should be managed at levels higher than 40% of S_MSY for SKP and YFT, and >50% of S_MSY for BET. The other reference point, namely F_MSY indicates that when exceeded by a factor of 1.5, all tuna stocks will rarely recover to optimal levels of spawning stock size or yield, unless severe harvest controls are applied on these stocks. Minor controls have insignificant effects on recovery times indicating that when fishing exceeds F_MSY levels, a longer recovery time to both the threshold and limit recovery times can be expected. Based on the results of this study, a more robust approach for critical reference points for management would be in the realm of 0.6-0.8 of S_MSY and not to exceed 1.2 F_MSY for all tuna stocks. This would keep the type II error (risk of overfishing to less between 10-20%) for all Indian Ocean Tuna stocks, and ensure recovery to optimal yield levels within 2-3 generations for all stocks other than skipjack and bigeye tuna with simple harvest control rules.
 
-The group discussed some merits of the approach, and suggested improvements by incorporating uncertainty in the optimal rate of fishing and using a more traditional Harvest control rule. The group cautioned on the conclusions as they are inherently a function of what was assumed on the harvest control rule. After a second iteration, this work could be finalized as an analysis addressing one of the tasks identified in Resolution 13/10 that deal with evaluation of the reference points and rebuilding to a green area in the Kobe plots with a high probability in as quick a time as possible. Discussions were also alluded to having a more direct and applicable tie in to the resolution and this analysis in teh escond iteration.
+The group discussed some merits of the approach, and suggested improvements by incorporating uncertainty in the optimal rate of fishing and using a more traditional Harvest control rule. The group cautioned on the conclusions as they are inherently a function of what was assumed on the harvest control rule. After a second iteration, this work could be finalized as an analysis addressing one of the tasks identified in Resolution 13/10 that deal with evaluation of the reference points and rebuilding to a green area in the Kobe plots with a high probability in as quick a time as possible. Discussions were also alluded to having a more direct and applicable tie in to the resolution and this analysis in the second iteration.
 
 - DOCUMENT: [SHARMA_risk_brps_JRC-MAR2014](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/SHARMA_risk_brps_JRC-MAR2014.pdf?raw=true)
 
 # FUTURE work on Skipjack and Albacore MPs
 
-Ideas for an initial set of Management Procedures for albacore and skipjack were discussed. test runs of two management procedures have been already carried out for albacore, one based on trends in the CPUE and the other on a biomass dynamics stock assessment model (see [presentation to SC 2013](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/Presentation_IOTC-2013-SC16-11%5BE%5D.pdf?raw=true)).
+Ideas for an initial set of Management Procedures for albacore and skipjack were discussed. Test runs of two management procedures have been already carried out for albacore, one based on trends in the CPUE and the other on a biomass dynamics stock assessment model (see [presentation to SC 2013](https://github.com/iotcwpm/WPM/blob/master/meetings/WPM_WK3_MAR_2014@JRC/presentations/Presentation_IOTC-2013-SC16-11%5BE%5D.pdf?raw=true)).
 
 Some possible alternatives for skipjack are worth exploring for albacore too, and this will be pursued further.
 
@@ -77,7 +81,7 @@ Following on the request from the last Scientific Committee meeting, the IOTC Se
 
 When communicating to other scientists and to managers the work on management objectives and procedures that WPM is carrying out, the choice of language can have a large impact in the dialogue. As a number of activities on capacity building and communication are taking place at the same, and to partly the same audience, but run by different people, the group agreed that a common terminology ought to be adopted. The most recent and complete compilation appears to be that compiled in ISSF (2013), and the group agreed to use as basis for terminology decisions.
 
-The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Although Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the precise terms of the discussion.
+The group discussed the best choice of terminology for some of the essential concepts and, for example, agreed that Management Procedure Evaluation (MPE) is probably the most precise description of the work WPM is carrying out. Although Management Strategy Evaluation has been used more often in the IOTC context, the time was felt to still be right for a switch to a term that should make it easier for all stakeholders involved to understand the precise terms of the discussion. Confusion has been reported, for example, due to the the verbal similarity between MSE and MSC.
 
 # STATUS of ABNJ project
 
@@ -113,7 +117,7 @@ This is a brief overview of the workplan that various parties agreed to, to enco
 
 - REFINE model dynamics and data as discussed (APR-JUN)
 - FINALIZE operating model, data, priors and conditioning (JUL-SEP)
-- EVALUATE simple harvest control rules (JUL-SEP)
+- TEST simple harvest control rules (JUL-SEP)
 - EVALUATE simple management procedures (CPUE, mean length, tagging based) (OCT)
 - MEETING project Advisory Committee (OCT)
 - CHANGES as suggested by Advisory Committee (NOV-DEC)
@@ -137,6 +141,8 @@ This is a brief overview of the workplan that various parties agreed to, to enco
  - DEC 2014 - MSE training at SC
 
 # REFERENCES
+
+ISSF. 2012. Report of the 2012 ISSF Stock Assessment Workshop: Understanding Purse Seine CPUE. Rome,	Italy. July	16-19 2012. ISSF Technical Report	2012-10. http://iss-foundation.org/resources/downloads/?did=384.
 
 ISSF. 2013. ISSF	Stock	Assessment	Workshop: Harvest	Control	Rules	and	Reference	Points	for	Tuna RFMOs. San	Diego,	California,	USA. March	6-8	2013.
 Technical Report 2013-03. http://iss-foundation.org/resources/downloads/?did=451.
